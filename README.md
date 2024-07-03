@@ -1,13 +1,20 @@
-# IMAGE-STEGANOGRAPHY
-Description
-Developed a model that is very useful for data security.Here important data is an image so it should had be secured before sending.So in this model we used lsb steganography techniques and binary bit plane decomposition algorithm to achieve our goal.
+# IMAGE STEGANOGRAPHY
+---
+//## Client-Server Model with Socket Programming and AES-CBC Encryption
 
-Technologies Used
-Programming Language: python
-Key Features
-Data Security:stores data of secret image in source image bits  
+### Description
+Developed a model that is very useful for data security.Here important data is image so it is necessary to secure thsis image before sending to anyone.so that our important data can't be seen by any other anonynomus user.It can only be seen after decryption to specified person.
 
-Efficient Data Retrieval: decryption
-How It Works
-In some bits of source image we put the secret image pixel so that after visualising it nobody can find secret image in this image.The source image look as it is at it was before storing secret image pixel.But after performing decryption we can get the secret image back.Using BINARY BIT PLANE DECOMPOSITION ALOGRITHM and LSB steganography we did 
-//Ensured data privacy while maintaining optimized searchability.
+### Technologies Used
+- **Programming Language:** python
+### Key Features
+- **Data Security:**  encryption to ensure data privacy.
+- **Efficient Data Retrieval:** decyption
+- 
+
+### How It Works
+1. **RETRIEVING A CONCATENATED STRING OF RGB CHANNEL VALUES OF ALL PIXELS OF SECRET IMAGE** : for this used BINARY BIT PLANE DECOMPOSITION ALGORITHM
+2. **HIDING SECRET IMAGE IN SOURCE IMAGE:** used LSB steganography technique
+3. **EXTRACT HIDDEN PIXELS** this one comes decyption part to get backsecret image pixel from source image
+4. **RECONSTRUCT IMAGE** after getting source image pixel we reconstruct original image
+
