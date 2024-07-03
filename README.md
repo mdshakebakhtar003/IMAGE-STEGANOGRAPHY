@@ -20,22 +20,30 @@ Developed a model that is very useful for data security.Here important data is i
 ### Depiction of the proposed model 
 
 ***SOURCE IMAGE***
+
+
 ***![Pictures](https://github.com/mdshakebakhtar003/IMAGE-STEGANOGRAPHY/assets/160420527/750174ec-2bb0-4dfb-b68e-d115b72a10d0)***
 
 
 
 ***SECRET IMAGE***
+
+
 ***![Picturesec](https://github.com/mdshakebakhtar003/IMAGE-STEGANOGRAPHY/assets/160420527/6e3a699d-9997-4ec8-85f7-21305a136c02)***
 
 
 
 ***ENCRYPTED IMAGE***
+
+
 ***![Pictureen](https://github.com/mdshakebakhtar003/IMAGE-STEGANOGRAPHY/assets/160420527/e9b4945c-2ca3-4cc2-a8a6-0bd8eadb0843)***
 
 
 
 
 ***DECRYPTED IMAGE***
+
+
 ***![Picturedec](https://github.com/mdshakebakhtar003/IMAGE-STEGANOGRAPHY/assets/160420527/c6154b92-0683-46b4-bab2-140abc29399d)***
 
 
