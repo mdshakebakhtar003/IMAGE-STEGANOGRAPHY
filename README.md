@@ -20,19 +20,20 @@ Developed a model that is very useful for data security.Here important data is i
 ### Depiction of the proposed model 
 
 ***SOURCE IMAGE***
-![Picture1](https://github.com/mdshakebakhtar003/IMAGE-STEGANOGRAPHY/assets/160420527/274cf7f2-e2c6-478d-ab0f-c51fa2e62e2e)
+![Pictures](https://github.com/mdshakebakhtar003/IMAGE-STEGANOGRAPHY/assets/160420527/750174ec-2bb0-4dfb-b68e-d115b72a10d0)
+
 
 
 ***SECRET IMAGE***
-![Picture2](https://github.com/mdshakebakhtar003/IMAGE-STEGANOGRAPHY/assets/160420527/84ae9732-ac5d-41cf-a35b-9c365383022e)
-
+![Picturesec](https://github.com/mdshakebakhtar003/IMAGE-STEGANOGRAPHY/assets/160420527/6e3a699d-9997-4ec8-85f7-21305a136c02)
 
 ***ENCRYPTED IMAGE***
-![Picture3](https://github.com/mdshakebakhtar003/IMAGE-STEGANOGRAPHY/assets/160420527/95e581e9-4541-4b83-96a0-6d1d99bdda66)
+![Pictureen](https://github.com/mdshakebakhtar003/IMAGE-STEGANOGRAPHY/assets/160420527/e9b4945c-2ca3-4cc2-a8a6-0bd8eadb0843)
 
 
 ***DECRYPTED IMAGE***
-![Picture4](https://github.com/mdshakebakhtar003/IMAGE-STEGANOGRAPHY/assets/160420527/5139eb72-cac0-4ca7-a99a-5579208c3912)
+![Picturedec](https://github.com/mdshakebakhtar003/IMAGE-STEGANOGRAPHY/assets/160420527/c6154b92-0683-46b4-bab2-140abc29399d)
+
 
 
 
