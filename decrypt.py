@@ -87,7 +87,7 @@ def main():
     default location.
 
     Call example:
-        python decode.py img/output.png img/res.png
+        python decrypt.py img/output.png img/res.png
     """
     if len(sys.argv) <= 2 or len(sys.argv) > 3:
         print("-------------------------------------------------")
@@ -95,7 +95,7 @@ def main():
         print ("--")
         print("In the below given format")
         print("-------------------------------------------------")
-        print ("--   python decode.py img/output.png img/res.png")
+        print ("--   python decrypt.py img/output.png img/res.png")
         print("-------------------------------------------------")
         return
     if len(sys.argv) == 3:
