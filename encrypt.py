@@ -94,7 +94,7 @@ def main():
     The number of pixels in the image used for hiding an image must be at least (2 * number of pixels in the image to be hidden + 1)
     
     Call example:
-        python encode.py img/vis.jpg img/hid.jpg img/output.png
+        python encrypt.py img/vis.jpg img/hid.jpg img/output.png
     """
     if len(sys.argv) <= 3 or len(sys.argv) > 4:
         print("-------------------------------------------------")
@@ -102,7 +102,7 @@ def main():
         print ("--")
         print("In the below given format")
         print("-------------------------------------------------")
-        print ("--   python encode.py img/vis.jpg img/hid.jpg img/output.png")
+        print ("--   python encrypt.py img/vis.jpg img/hid.jpg img/output.png")
         print("-------------------------------------------------")
         
         return
